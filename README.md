@@ -4,8 +4,8 @@ This is a Guide Generator for a Kubernetes The Hard Way on a Local Enviroment
 
 ## Requirements
 
- - **Npm** Node Installed 
-
+ - **npm** node installed 
+ - **5 VMs** Ubuntu 18.04
 
 ## Execution 
 
